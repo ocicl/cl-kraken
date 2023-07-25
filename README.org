@@ -1,0 +1,10 @@
+* cl-kraken
+
+A Common Lisp API wrapper for the Kraken cryptocurrency exchange.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jonatack/cl-kraken.git   |
+| commit  | 6ce37d2  |
+| systems | cl-kraken |
+|---------+-------------------------------------------|
+
