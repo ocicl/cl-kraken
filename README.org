@@ -8,4 +8,4 @@ A Common Lisp API wrapper for the Kraken cryptocurrency exchange.
 | systems | cl-kraken |
 |---------+-------------------------------------------|
 
- 
+  
